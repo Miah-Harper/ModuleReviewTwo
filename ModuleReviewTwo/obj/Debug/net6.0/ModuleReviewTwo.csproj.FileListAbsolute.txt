@@ -1,0 +1,14 @@
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\bin\Debug\net6.0\ModuleReviewTwo.exe
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\bin\Debug\net6.0\ModuleReviewTwo.deps.json
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\bin\Debug\net6.0\ModuleReviewTwo.runtimeconfig.json
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\bin\Debug\net6.0\ModuleReviewTwo.dll
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\bin\Debug\net6.0\ModuleReviewTwo.pdb
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.AssemblyInfoInputs.cache
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.AssemblyInfo.cs
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.csproj.CoreCompileInputs.cache
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.dll
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\refint\ModuleReviewTwo.dll
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.pdb
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ModuleReviewTwo.genruntimeconfig.cache
+C:\Users\Harpe\Desktop\My Projects\ModuleReviewTwo\ModuleReviewTwo\obj\Debug\net6.0\ref\ModuleReviewTwo.dll
